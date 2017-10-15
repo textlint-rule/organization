@@ -81,4 +81,4 @@ This Guideline is adapted from the [Maintenance Guidelines for Organization](htt
 
 This Guideline is available under Creative Commons Attribution 4.0 International Public License([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
-[Code of Conduct]: ./code_of_conduct.md
+[Code of Conduct]: ./CODE_OF_CONDUCT.md
