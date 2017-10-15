@@ -57,7 +57,8 @@ Transfer your repository's ownership to the organization.
 3. Type textlint-rule in the field labeled "New owner's GitHub username or organization name"
 4. Click "I understand, transfer this repository" button
 5. After transfer, modify meta-data in pacakge.json, README.md, and Re-Enable CI etc...
-  - Utils: [transfer-github-owner](https://github.com/azu/transfer-github-owner "transfer-github-owner")
+    - Utils: [transfer-github-owner](https://github.com/azu/transfer-github-owner "transfer-github-owner")
+
 
 For more infromation, see [About repository transfers - User Documentation](https://help.github.com/articles/about-repository-transfers/)
 
